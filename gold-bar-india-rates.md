@@ -199,87 +199,137 @@ Your HDFC Millennia gives **5% cashback on Amazon, Flipkart, Myntra, and Tata CL
 
 ## ALTERNATIVES ACTUALLY IN STOCK (28 Sep 2026)
 
-> The cheapest option — MMTC-PAMP Lotus 10g on Myntra at ₹1,51,050 — is **SOLD OUT**.
-> Here are the next best options that are available to buy RIGHT NOW:
+> The MMTC-PAMP Lotus 10g on Myntra at ₹1,51,050 is **SOLD OUT**.
+> Here are all in-stock options ranked cheapest first:
 
 ### IN-STOCK alternatives ranked cheapest first:
 
-| #  | Product & Platform                     | Price        | Purity | In Stock? | HDFC Millennia 5%? |
-|----|----------------------------------------|-------------|--------|-----------|---------------------|
-| 1  | **Gujarat Gold Centre (GGC) 10g Bar**  | **₹1,56,454** | 999  | **YES**   | No (1% only)        |
-| 2  | Augmont 10g Coin (augmont.com)         | ₹1,57,260   | 999    | YES       | No (1% only)        |
-| 3  | Aspect Bullion 10g Bar (CoinBazaar)    | ~₹1,57,000* | 999    | YES       | No (1% only)        |
-| 4  | **MMTC-PAMP 10g (Official site)**      | **₹1,64,490** | 999.9 | **YES**  | No (1% only)        |
-| 5  | Bhima Floral 10g Bar (Myntra)          | ₹1,60,902   | 999    | Check     | **YES (5%)**        |
-| 6  | MMTC-PAMP Rose 10g (Flipkart)         | ₹1,66,850   | 999.9  | YES       | **YES (5%)**        |
-| 7  | MMTC-PAMP 10g (Ajio)                  | ₹1,85,976   | 999.9  | YES       | No                  |
-| 8  | Svasti Gold MMTC-PAMP 10g Lotus        | ₹1,74,930   | 999.9  | YES       | No                  |
+| #  | Product & Platform                     | Price         | Purity | In Stock? | HDFC Millennia |
+|----|----------------------------------------|--------------|--------|-----------|----------------|
+| 1  | **BlueStone 10g 24KT Coin/Bar**        | **₹1,52,883**| 995    | **YES**   | 1% + bank offer|
+| 2  | Gujarat Gold Centre (GGC) 10g Bar      | ₹1,56,454    | 999    | YES       | 1% only        |
+| 3  | Augmont 10g Coin (augmont.com)         | ₹1,57,260    | 999    | YES       | 1% only        |
+| 4  | Aspect Bullion 10g Bar (CoinBazaar)    | ~₹1,57,000*  | 999    | YES       | 1% only        |
+| 5  | Bhima Floral 10g Bar (Myntra)          | ₹1,60,902    | 999    | Check     | **5%**         |
+| 6  | MMTC-PAMP 10g (Official site)          | ₹1,64,490    | 999.9  | YES       | 1% only        |
+| 7  | MMTC-PAMP Rose 10g (Flipkart)          | ₹1,66,850    | 999.9  | YES       | **5%**         |
+| 8  | Svasti Gold MMTC-PAMP 10g Lotus        | ₹1,74,930    | 999.9  | YES       | No             |
+| 9  | MMTC-PAMP 10g (Ajio)                   | ₹1,85,976    | 999.9  | YES       | No             |
 
-### Effective price after HDFC Millennia cashback:
+### CRITICAL: Purity differs — compare cost per gram of ACTUAL pure gold
 
-| #  | Option                                 | Price       | Cashback  | Effective Price |
-|----|----------------------------------------|-------------|-----------|-----------------|
-| 1  | **Gujarat Gold Centre 10g Bar**        | ₹1,56,454   | ₹1,565 (1%) | **₹1,54,889** |
-| 2  | Augmont 10g Coin                       | ₹1,57,260   | ₹1,573 (1%) | ₹1,55,687      |
-| 3  | Bhima 10g on Myntra (if in stock)      | ₹1,60,902   | ₹1,000 (5% capped) | ₹1,59,902 |
-| 4  | MMTC-PAMP 10g Official                 | ₹1,64,490   | ₹1,645 (1%) | ₹1,62,845      |
-| 5  | MMTC-PAMP Rose 10g Flipkart           | ₹1,66,850   | ₹1,000 (5% capped) | ₹1,65,850 |
+BlueStone sells "24 KT" but the product code says **995** (99.5%), not 999. Here's the real cost per gram of pure gold:
+
+| Platform            | Price       | Purity | Pure gold in bar | Cost per g of pure gold |
+|---------------------|-------------|--------|------------------|--------------------------|
+| **BlueStone**       | ₹1,52,883   | 995    | 9.950 g          | **₹15,365**             |
+| Gujarat Gold Centre | ₹1,56,454   | 999    | 9.990 g          | ₹15,661                 |
+| Augmont             | ₹1,57,260   | 999    | 9.990 g          | ₹15,742                 |
+| MMTC-PAMP Official  | ₹1,64,490   | 999.9  | 9.999 g          | ₹16,451                 |
+
+**BlueStone still wins even after adjusting for the lower purity** — ₹296/g cheaper than GGC, ₹1,086/g cheaper than MMTC-PAMP.
 
 ### BEST BUY RIGHT NOW:
 
-**Gujarat Gold Centre 10g 24K Gold Bar — ₹1,56,454**
-- gujaratgoldcentre.com — IN STOCK, Add to Cart available
-- 24K, 999 purity, BIS hallmarked, NABL accredited
-- Pan-India insured delivery
-- Lifetime buyback at market rate
-- Assayer certificate included
-- Price breakdown: Gold ₹1,51,655 + Making ₹250 + GST ₹4,550
-- **₹8,036 cheaper than MMTC-PAMP official site**
-- **The ₹250 making charge is the lowest in India**
+**BlueStone 10g 24KT Gold Coin — ₹1,52,883**
+- bluestone.com — IN STOCK, in cart, Place Order live
+- 995 purity, BIS certified/hallmarked
+- Lifetime exchange & buyback
+- Insured delivery, free shipping
+- 30-day return policy
+- Price breakdown: Subtotal ₹1,48,431 + GST ₹4,452
+- **₹3,571 cheaper than Gujarat Gold Centre**
+- **₹11,607 cheaper than MMTC-PAMP official site**
 
-### Runner-up:
+> **Note:** All 15 BlueStone 10g 24KT designs (Gold Bar, Lakshmi, Ganesh, Krishna,
+> Balaji, Saibaba, Hanuman, Ram Parivar, Lord Shiva, Jesus Christ etc.) are the
+> **same price ₹1,52,883**. Pick any design — the plain Gold Bar is best for resale.
 
-**Augmont 10g 24K Gold Coin — ₹1,57,260**
-- augmont.com — likely in stock
-- 999 purity, BIS hallmarked
-- Lifetime buyback, 30-day returns
-- EMI available from ₹15,290/month
+### Try these at BlueStone checkout (Apply Voucher / Gift Card):
 
-### If you MUST have MMTC-PAMP (999.9 purity):
+| Code / Offer            | Discount                              | Worth trying? |
+|-------------------------|---------------------------------------|---------------|
+| HDFC card offer         | 5% off, min ₹25,000, max ₹2,000       | YES           |
+| FESTIVE60               | Festive discount code                 | Try it        |
+| Gold Mine 10+1 Plan     | Pay 10 monthly, 11th month free       | Only if SIP   |
 
-**MMTC-PAMP Official Site — ₹1,64,490**
-- mmtcpamp.com — IN STOCK (Ram Lalla, Rose designs)
-- 999.9 purity, LBMA certified (higher than GGC's 999)
-- Delivery by 01 Oct
-- MRP ₹1,89,170 → sale price ₹1,64,490 (13% off)
-- Check GrabOn for additional coupon codes (up to 20% off reported)
+> BlueStone's headline "20% off" applies to **diamond prices only** — not gold coins.
+> The separate **5% HDFC card discount (max ₹2,000)** may apply. Try it at checkout —
+> if it works, your price drops to **₹1,50,883**.
+
+### Runner-ups:
+
+**Gujarat Gold Centre 10g Bar — ₹1,56,454** (999 purity)
+- gujaratgoldcentre.com — IN STOCK
+- Lowest making charge in India (₹250)
+- NABL accredited, assayer certificate
+
+**Augmont 10g Coin — ₹1,57,260** (999 purity)
+- augmont.com — in stock, EMI from ₹15,290/month
+
+**MMTC-PAMP Official — ₹1,64,490** (999.9 purity, LBMA)
+- Only worth it if you specifically need LBMA certification for resale abroad
 
 ### DO NOT BUY FROM (Overpriced):
-- Svasti Gold: ₹1,74,930 for same MMTC-PAMP bar (₹10,440 more than official)
-- Ajio: ₹1,85,976 for same MMTC-PAMP bar (₹21,486 more than official)
-- These are resellers charging insane markups on the same product
+- Svasti Gold: ₹1,74,930 for same MMTC-PAMP bar (₹10,440 over official)
+- Ajio: ₹1,85,976 for same MMTC-PAMP bar (₹21,486 over official)
+- These are resellers charging insane markups on identical product
+
+---
+
+## Other Companies Checked (28 Sep 2026)
+
+| Company                  | 10g 24K Available? | Notes                                        |
+|--------------------------|--------------------|----------------------------------------------|
+| **BlueStone**            | YES — ₹1,52,883    | **Cheapest in stock.** 995 purity, BIS       |
+| Gujarat Gold Centre      | YES — ₹1,56,454    | 999 purity, lowest making charge (₹250)      |
+| Augmont                  | YES — ₹1,57,260    | 999 purity, EMI available                    |
+| Aspect Bullion           | YES — ~₹1,57,000   | 999 purity, in-house refining, via CoinBazaar|
+| Kundan Refinery          | Yes                | NABL certified, 999.9, 100% buyback. Site showed a stale/incorrect price — verify live before ordering |
+| Muthoot (Exim / Aurum)   | Yes                | 995 & 999 bars, BIS hallmarked, site was down|
+| Malabar Gold & Diamonds  | Yes                | 999 coins, lifetime buyback at any store     |
+| Kalyan Jewellers         | Yes                | 24K coins 1g-10g, retail premium applies     |
+| Joyalukkas               | Yes                | ~9.7% premium on 1g — among the pricier      |
+| Bangalore Refinery       | Yes                | 999.9 but ₹1,60,290+ on Flipkart — overpriced|
+| RSBL (RiddhiSiddhi)      | Yes                | 999 bars via CoinBazaar, competitive         |
+| Bhima Jewellery          | Yes — ₹1,65,089    | Overpriced on own site; ₹1,60,902 on Myntra  |
+| P N Gadgil               | Yes — ₹1,59,608+   | 995 purity, cheapest on Myntra               |
+| Tanishq                  | Yes                | 22K + 24K coins, trusted but retail premium  |
+| Senco Gold               | Yes                | BIS hallmarked, physical stores              |
+| HDFC Bank (Mudra bars)   | Yes                | 2.5g-50g Swiss imports, branch/app purchase  |
+| NB Bullion               | No                 | **Wholesale only** — no retail buyers        |
+| SafeGold                 | Digital only       | Convert to physical via partner jewellers    |
 
 ---
 
 ## Overall Best Options (Including Non-Physical)
 
-### Option 1: CHEAPEST IN-STOCK PHYSICAL BAR
-**Gujarat Gold Centre 10g Bar = ₹1,56,454**
+### Option 1: CHEAPEST IN-STOCK — BUY THIS
+**BlueStone 10g 24KT Gold Coin/Bar = ₹1,52,883**
+- Buy at bluestone.com (already in cart, Place Order live)
+- Try the HDFC 5% card offer at checkout (max ₹2,000) → possibly **₹1,50,883**
+- Plus 1% HDFC Millennia base cashback (₹1,529)
+- **Effective: ₹1,49,354 - ₹1,51,354**
+- 995 purity, BIS certified, lifetime buyback, insured delivery
+
+### Option 2: HIGHER PURITY, SLIGHTLY MORE
+**Gujarat Gold Centre 10g Bar = ₹1,56,454** (999 purity)
 - Buy at gujaratgoldcentre.com
 - Pay with HDFC Millennia → 1% cashback (₹1,565) → **effective ₹1,54,889**
 
-### Option 2: CHEAPEST OVERALL (Not Physical)
+### Option 3: CHEAPEST OVERALL (Not Physical)
 **Sovereign Gold Bonds on NSE/BSE secondary market**
 - No GST (saves ~₹4,500 vs physical)
 - Earns 2.5% annual interest
 - Tax-free at maturity
 - Buy via your demat account
 
-### Option 3: WAIT FOR RESTOCK
+### Option 4: WAIT FOR RESTOCK
 **MMTC-PAMP Lotus 10g on Myntra — ₹1,51,050 (SOLD OUT)**
-- Check daily for restock — this is the cheapest when available
-- Set a price alert if Myntra supports it
+- Cheapest when available, but currently unavailable
 - HDFC Millennia gives 5% cashback on Myntra → effective ~₹1,50,050
+- Only ~₹1,800 cheaper than BlueStone which you can buy NOW
+- **Not worth waiting for** — gold prices move more than that daily
 
 ---
 
