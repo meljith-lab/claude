@@ -114,18 +114,24 @@ For pure investment, 24K bars give you the highest gold content per rupee spent 
 
 ---
 
-## 10g 24K Gold Bar — Every Platform Compared (Cheapest to Costliest)
+## 10g 24K Gold Bar — Every Platform Compared (VERIFIED PRICES, 28 Sep 2026)
 
-| #  | Platform                        | Price (approx)  | Premium  | Purity | Rating     |
-|----|----------------------------------|----------------|----------|--------|------------|
-| 1  | **MMTC-PAMP on Myntra**          | **₹1,51,050**  | **~0.6%**| 999.9  | CHEAPEST   |
-| 2  | MMTC-PAMP (Official mmtcpamp.com)| ~₹1,52,670     | ~1.7%    | 999.9  | Great      |
-| 3  | MMTC-PAMP on Amazon              | ~₹1,53,000     | ~1.9%    | 999.9  | Great      |
-| 4  | Tanishq                          | ~₹1,54,500     | ~2.9%    | 999    | OK         |
-| 5  | Augmont (augmont.com)            | ~₹1,55,630     | ~3.5%    | 999    | OK         |
-| 6  | Gujarat Gold Centre              | ~₹1,55,810     | ~3.8%    | 999    | OK         |
-| 7  | Bangalore Refinery (Ajio)        | ~₹1,69,744     | ~13%     | 999.9  | Overpriced |
-| 8  | Bangalore Refinery (Flipkart)    | ~₹1,60,290     | ~6.7%    | 999.9  | Overpriced |
+> Spot gold value for 10g 24K = ₹1,50,170 (Goodreturns). Anything above = premium.
+
+| #  | Platform & Brand                 | Price (verified) | Premium  | Purity | Rating      |
+|----|----------------------------------|-----------------|----------|--------|-------------|
+| 1  | **MMTC-PAMP Lotus on Myntra**    | **₹1,51,050**   | **0.6%** | 999.9  | **CHEAPEST**|
+| 2  | Gujarat Gold Centre (GGC)        | ₹1,56,339       | 4.1%     | 999    | Good        |
+| 3  | Augmont 10g Coin (augmont.com)   | ₹1,57,260       | 4.7%     | 999    | OK          |
+| 4  | P N Gadgil (Myntra)              | ₹1,59,608       | 6.3%     | 995    | OK          |
+| 5  | Bhima Floral Bar (Myntra)        | ₹1,60,902       | 7.1%     | 999    | Pricey      |
+| 6  | P N Gadgil (Amazon)              | ₹1,61,960       | 7.9%     | 995    | Pricey      |
+| 7  | P N Gadgil (Flipkart)            | ₹1,63,799       | 9.1%     | 995    | Overpriced  |
+| 8  | **MMTC-PAMP (Official site)**    | **₹1,64,490**   | **9.5%** | 999.9  | Overpriced  |
+| 9  | Bhima Jewellery (Official)       | ₹1,65,089       | 9.9%     | 999    | Overpriced  |
+| 10 | P N Gadgil (Tata CLiQ)           | ₹1,66,604       | 10.9%    | 995    | Avoid       |
+
+**SURPRISE FINDING: MMTC-PAMP's own website (₹1,64,490) is ₹13,440 MORE EXPENSIVE than the same bar on Myntra (₹1,51,050). Always buy on Myntra, not the official site.**
 
 ---
 
@@ -143,12 +149,13 @@ For pure investment, 24K bars give you the highest gold content per rupee spent 
 
 Your HDFC Millennia gives **5% cashback on Amazon, Flipkart, Myntra, and Tata CLiQ**. MMTC-PAMP gold bars are sold on all four. Here's the math:
 
-| Platform  | 10g Bar Price | 5% Cashback   | Effective Price | Net Saving vs Spot |
-|-----------|--------------|---------------|-----------------|---------------------|
-| **Myntra** | ₹1,51,050   | ₹1,000 (cap)  | **₹1,50,050**   | Cheapest overall     |
-| Amazon    | ~₹1,53,000   | ₹1,000 (cap)  | ~₹1,52,000      | Good                 |
-| Flipkart  | ~₹1,55,000   | ₹1,000 (cap)  | ~₹1,54,000      | OK                   |
-| Tata CLiQ | ~₹1,55,000   | ₹1,000 (cap)  | ~₹1,54,000      | OK                   |
+| Platform      | 10g Bar Price | 5% Cashback   | Effective Price   | vs Official Site     |
+|---------------|--------------|---------------|-------------------|----------------------|
+| **Myntra**    | ₹1,51,050    | ₹1,000 (cap)  | **₹1,50,050**    | **Save ₹14,440**     |
+| Amazon (PNG)  | ₹1,61,960    | ₹1,000 (cap)  | ₹1,60,960         | Save ₹3,530          |
+| Flipkart (PNG)| ₹1,63,799    | ₹1,000 (cap)  | ₹1,62,799         | Save ₹1,691          |
+| Tata CLiQ (PNG)| ₹1,66,604   | ₹1,000 (cap)  | ₹1,65,604         | MORE than official   |
+| MMTC-PAMP.com | ₹1,64,490    | 1% only        | ₹1,62,845        | Baseline              |
 
 **IMPORTANT: The 5% cashback is capped at 1,000 CashBack points/month.** So on a ₹1,51,050 purchase, you'd earn 1,000 pts (worth ₹1,000), not ₹7,553. But the ₹1,000 saving + lowest base price still makes **Myntra + HDFC Millennia** the best combo.
 
@@ -190,19 +197,22 @@ Your HDFC Millennia gives **5% cashback on Amazon, Flipkart, Myntra, and Tata CL
 
 ---
 
-## FINAL VERDICT — Best Way to Buy 10g 24K Gold Bar
+## FINAL VERDICT — Best Way to Buy 10g 24K Gold Bar (VERIFIED)
 
-### Option 1: CHEAPEST PHYSICAL BAR
+### Option 1: CHEAPEST PHYSICAL BAR (YOUR BEST BET)
 **MMTC-PAMP 10g Lotus Bar on Myntra = ₹1,51,050**
 - Pay with HDFC Millennia → get ₹1,000 cashback → **effective ₹1,50,050**
-- LBMA certified 999.9 purity
+- LBMA certified 999.9 purity (highest in India)
 - Certicard tamper-proof packaging
 - Lifetime buyback guaranteed
+- **₹14,440 cheaper than the official MMTC-PAMP site (₹1,64,490)**
+- **₹7,210 cheaper than Augmont (₹1,57,260)**
 
 ### Option 2: CHEAPEST IF YOU HAVE AU LIT CARD
 **MMTC-PAMP on mmtcpamp.com with AU LIT Card offer**
-- Up to ₹10,000 off → could bring price under ₹1,45,000
-- Check mmtcpamp.com for current exact pricing
+- Official site price: ₹1,64,490
+- AU LIT discount: up to ₹10,000 off → ~₹1,54,490
+- Still ₹3,440 more than Myntra — Myntra wins even without AU LIT
 
 ### Option 3: CHEAPEST OVERALL (Not Physical)
 **Sovereign Gold Bonds on NSE/BSE secondary market**
@@ -210,6 +220,11 @@ Your HDFC Millennia gives **5% cashback on Amazon, Flipkart, Myntra, and Tata CL
 - Earns 2.5% annual interest
 - Tax-free at maturity
 - Buy via your demat account
+
+### DO NOT BUY FROM (Overpriced):
+- MMTC-PAMP official site: ₹1,64,490 (9.5% premium — rip-off vs Myntra)
+- Bhima Jewellery: ₹1,65,089
+- P N Gadgil on Tata CLiQ: ₹1,66,604
 
 ---
 
