@@ -114,29 +114,102 @@ For pure investment, 24K bars give you the highest gold content per rupee spent 
 
 ---
 
-## Top Recommendations
+## 10g 24K Gold Bar — Every Platform Compared (Cheapest to Costliest)
 
-### Best Overall: MMTC-PAMP 24K Bar
-- **Cheapest on:** Myntra > Official site > Amazon
-- **Purity:** 999.9 (highest available in India, LBMA certified)
-- **Buyback:** Guaranteed lifetime buyback
-- **Sizes:** 1g, 5g, 8g, 10g, 20g, 50g, 100g
+| #  | Platform                        | Price (approx)  | Premium  | Purity | Rating     |
+|----|----------------------------------|----------------|----------|--------|------------|
+| 1  | **MMTC-PAMP on Myntra**          | **₹1,51,050**  | **~0.6%**| 999.9  | CHEAPEST   |
+| 2  | MMTC-PAMP (Official mmtcpamp.com)| ~₹1,52,670     | ~1.7%    | 999.9  | Great      |
+| 3  | MMTC-PAMP on Amazon              | ~₹1,53,000     | ~1.9%    | 999.9  | Great      |
+| 4  | Tanishq                          | ~₹1,54,500     | ~2.9%    | 999    | OK         |
+| 5  | Augmont (augmont.com)            | ~₹1,55,630     | ~3.5%    | 999    | OK         |
+| 6  | Gujarat Gold Centre              | ~₹1,55,810     | ~3.8%    | 999    | OK         |
+| 7  | Bangalore Refinery (Ajio)        | ~₹1,69,744     | ~13%     | 999.9  | Overpriced |
+| 8  | Bangalore Refinery (Flipkart)    | ~₹1,60,290     | ~6.7%    | 999.9  | Overpriced |
 
-### Best for Small Purchases: Augmont Digital Gold
-- Start from ₹10 via Google Pay / PhonePe
-- Convert to physical bar/coin anytime
-- SIP option for monthly investing
-- Live rate at ₹15,112/g (24K)
+---
 
-### Best for 22K Coins: Tanishq
-- Trusted Tata brand, BIS hallmarked
-- Available in 5g and 10g
-- Physical stores across India for verification
+## HDFC Millennia Credit Card — How to Maximise Savings on Gold
 
-### Cheapest Route Overall: Sovereign Gold Bonds (SGBs)
-- Buy on NSE/BSE secondary market (no new issuance since Feb 2024)
-- No GST, no storage cost, earns 2.5% annual interest
-- Tax-free gains at maturity
+### Your Card's Cashback Structure
+
+| Category                              | Cashback | Monthly Cap        |
+|---------------------------------------|----------|---------------------|
+| Amazon, Flipkart, Myntra, Tata CLiQ   | **5%**   | 1,000 CashBack pts  |
+| All other spends                       | 1%       | 1,000 CashBack pts  |
+| Fuel, EMI, Wallet, Rent, Govt         | 0%       | Excluded             |
+
+### The Hack: Buy MMTC-PAMP Gold on a 5% Cashback Platform
+
+Your HDFC Millennia gives **5% cashback on Amazon, Flipkart, Myntra, and Tata CLiQ**. MMTC-PAMP gold bars are sold on all four. Here's the math:
+
+| Platform  | 10g Bar Price | 5% Cashback   | Effective Price | Net Saving vs Spot |
+|-----------|--------------|---------------|-----------------|---------------------|
+| **Myntra** | ₹1,51,050   | ₹1,000 (cap)  | **₹1,50,050**   | Cheapest overall     |
+| Amazon    | ~₹1,53,000   | ₹1,000 (cap)  | ~₹1,52,000      | Good                 |
+| Flipkart  | ~₹1,55,000   | ₹1,000 (cap)  | ~₹1,54,000      | OK                   |
+| Tata CLiQ | ~₹1,55,000   | ₹1,000 (cap)  | ~₹1,54,000      | OK                   |
+
+**IMPORTANT: The 5% cashback is capped at 1,000 CashBack points/month.** So on a ₹1,51,050 purchase, you'd earn 1,000 pts (worth ₹1,000), not ₹7,553. But the ₹1,000 saving + lowest base price still makes **Myntra + HDFC Millennia** the best combo.
+
+### Additional HDFC Millennia Benefits on This Purchase
+
+- **EMI option:** Convert to 6/9/12-month EMI at 12-15% interest (not recommended for gold)
+- **Quarterly bonus:** Spend ₹1,00,000+ in a quarter → get ₹1,000 gift voucher (this gold purchase alone clears it)
+- **SmartBuy points:** Check HDFC SmartBuy for occasional merchant-specific gold offers
+
+---
+
+## Active Coupon Codes & Offers (September 2026)
+
+### MMTC-PAMP Official Site (mmtcpamp.com)
+
+| Offer                          | Discount      | Details                      |
+|--------------------------------|---------------|------------------------------|
+| Sitewide gold & silver         | Up to 20% OFF | Verified, 6 uses today       |
+| 2g Peacock Gold Bar            | ₹5,000 OFF    | Buy at ₹33,280 vs ₹38,280   |
+| 5g Laxmi Gold Coin             | 13% OFF       | Save ₹12,500                 |
+| 0.5g Lotus Gold Coin           | 13% OFF       | Save ₹1,330                  |
+| 1g Rose Gold Oval Coin         | 13% OFF       | Save ₹2,630                  |
+| AU LIT Credit Card             | Up to ₹10,000 OFF | AU Small Finance Bank card |
+
+> Source: GrabOn verified offers
+
+### Myntra
+- HDFC Millennia: **5% cashback** (capped at 1,000 pts/month)
+- Check Myntra app for flash sale pricing on gold coins
+
+### Amazon India
+- HDFC Millennia: **5% cashback** (capped at 1,000 pts/month)
+- Amazon Pay balance: Additional 1-2% back sometimes
+- No-cost EMI: Occasionally available on gold bars
+
+### Flipkart
+- HDFC Millennia: **5% cashback** (capped at 1,000 pts/month)
+- Flipkart Axis Bank Card: 5% unlimited cashback (if you have it)
+
+---
+
+## FINAL VERDICT — Best Way to Buy 10g 24K Gold Bar
+
+### Option 1: CHEAPEST PHYSICAL BAR
+**MMTC-PAMP 10g Lotus Bar on Myntra = ₹1,51,050**
+- Pay with HDFC Millennia → get ₹1,000 cashback → **effective ₹1,50,050**
+- LBMA certified 999.9 purity
+- Certicard tamper-proof packaging
+- Lifetime buyback guaranteed
+
+### Option 2: CHEAPEST IF YOU HAVE AU LIT CARD
+**MMTC-PAMP on mmtcpamp.com with AU LIT Card offer**
+- Up to ₹10,000 off → could bring price under ₹1,45,000
+- Check mmtcpamp.com for current exact pricing
+
+### Option 3: CHEAPEST OVERALL (Not Physical)
+**Sovereign Gold Bonds on NSE/BSE secondary market**
+- No GST (saves ~₹4,500 vs physical)
+- Earns 2.5% annual interest
+- Tax-free at maturity
+- Buy via your demat account
 
 ---
 
@@ -144,9 +217,10 @@ For pure investment, 24K bars give you the highest gold content per rupee spent 
 
 | Platform               | Type          | Buy Link                          |
 |------------------------|---------------|-----------------------------------|
-| MMTC-PAMP (Official)   | Physical bars | mmtcpamp.com                      |
 | MMTC-PAMP (Myntra)     | Physical bars | myntra.com (search MMTC PAMP)     |
+| MMTC-PAMP (Official)   | Physical bars | mmtcpamp.com                      |
 | MMTC-PAMP (Amazon)     | Physical bars | amazon.in (search MMTC PAMP)      |
+| MMTC-PAMP (Tata CLiQ)  | Physical bars | tatacliq.com (search MMTC PAMP)   |
 | Augmont                | Digital + Physical | augmont.com                  |
 | Gujarat Gold Centre    | Physical bars | gujaratgoldcentre.com             |
 | Senco Gold             | Physical bars/coins | sencogoldanddiamonds.com    |
@@ -156,6 +230,7 @@ For pure investment, 24K bars give you the highest gold content per rupee spent 
 | PhonePe (SafeGold)     | Digital gold  | PhonePe app                       |
 | Paytm (MMTC-PAMP)     | Digital gold  | Paytm app                         |
 | NSE/BSE (SGBs)         | Bonds         | Via any demat account             |
+| GrabOn Coupons         | Discount codes| grabon.in/mmtcpamp-coupons        |
 
 ---
 
